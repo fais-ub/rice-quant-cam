@@ -1,0 +1,9 @@
+dataset,src_class,paddy_class
+sethy,Bacterialblight,bacterial_leaf_blight
+sethy,Blast,blast
+sethy,Brownspot,brown_spot
+sethy,Tungro,tungro
+riceleafbd,Bacterial Leaf Blight,bacterial_leaf_blight
+riceleafbd,Brown Spot,brown_spot
+riceleafbd,Healthy Leaf,normal
+riceleafbd,Tungro Virus,tungro

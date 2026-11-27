@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and the archived release."
+title: "Quantization Effects on Rice Disease Predictions and Class Activation Maps on Android Phones"
+version: 1.0.0
+date-released: 2026-11-27
+license: MIT
+repository-code: "https://github.com/fais-ub/rice-quant-cam"
+doi: 10.5281/zenodo.XXXXXXX
+authors:
+  - family-names: Huda
+    given-names: Fais Al
+    affiliation: "Faculty of Computer Science, Universitas Brawijaya"
+  - family-names: Muchlisyiyah
+    given-names: Jhauharotul
+    affiliation: "Faculty of Agroindustrial and Biosystems Technology, Universitas Brawijaya"
+  - family-names: Tolle
+    given-names: Herman
+    affiliation: "Faculty of Computer Science, Universitas Brawijaya"
+  - family-names: Utaminingrum
+    given-names: Fitri
+    affiliation: "Faculty of Computer Science, Universitas Brawijaya"
+keywords:
+  - rice disease
+  - post-training quantization
+  - class activation maps
+  - Android
+  - ONNX Runtime
