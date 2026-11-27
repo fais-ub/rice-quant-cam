@@ -5,7 +5,7 @@ version: 1.0.0
 date-released: 2026-11-27
 license: MIT
 repository-code: "https://github.com/fais-ub/rice-quant-cam"
-doi: 10.5281/zenodo.XXXXXXX
+doi: 10.5281/zenodo.24575665
 authors:
   - family-names: Huda
     given-names: Fais Al

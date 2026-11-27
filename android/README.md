@@ -25,7 +25,6 @@ input. FP16 runs on the CPU provider only because XNNPACK rejects its FP16 convo
 
    For the mixed-precision rows, also copy `results/paper_pc/mixed_precision/models/<run>/mp_top4.onnx` to
    `app/src/main/assets/models/<run>/int8_qdq_mp.onnx` for `effb0_s0` and `mnv3l_s0`.
-   The ONNX files are also in the Zenodo archive.
 
 2. Build and install:
 

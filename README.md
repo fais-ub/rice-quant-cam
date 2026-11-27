@@ -9,8 +9,8 @@ three static QDQ INT8 variants) plus a sensitivity-guided mixed-precision varian
 prediction flips, CAM stability, deletion/insertion faithfulness, PC–phone agreement and latency on four Android
 phones with ONNX Runtime.
 
-Trained checkpoints, ONNX models, per-image results and phone logs are archived on Zenodo:
-DOI [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX).
+This code release (v1.0.0) is archived on Zenodo: DOI [10.5281/zenodo.24575665](https://doi.org/10.5281/zenodo.24575665).
+Trained checkpoints, ONNX models and raw experiment records are not included.
 
 ## Layout
 
@@ -107,4 +107,4 @@ See `CITATION.cff`.
 
 ## License
 
-Code: MIT (`LICENSE`). Models and results on Zenodo: CC BY 4.0. The datasets keep their own licenses.
+Code: MIT (`LICENSE`). The datasets keep their own licenses.
